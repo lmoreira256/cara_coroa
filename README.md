@@ -2,7 +2,7 @@
 
 📱 Projeto desenvolvido com o objetivo de aprender Flutter.
 <br>
-🏷️ App 4 - Cara ou Coroa do [curso](https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/) de desenvolvimento com Flutter.
+🏷️ App 5 - Cara ou Coroa do [curso](https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/) de desenvolvimento com Flutter.
 
 ---
 
